@@ -1,6 +1,9 @@
 /BluePolymorph.class
+/MovingPolymorph.class
 /Polymorph.class
 /PolymorphWindow.class
-/instructions
 /RedPolymorph.class
-/MovingPolymorph.class
+/instructions
+/CirclePolymorph.class
+/MousePolymorph.class
+/ImagePolymorph.class
